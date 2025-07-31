@@ -472,6 +472,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-dia-01",
+          title: 'Dia 01',
+          description: "Tubidímetro",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/DIA_01/";
             },},{
         id: 'social-email',
         title: 'email',
